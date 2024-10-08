@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://linkparaoseugif.com/banner.gif" alt="Banner" style="width: 100%; height: 200px;" />
+  <img src="https://github.com/AnaIsabel408/bannergif/blob/a6ee239142205c5ed3302e2bd942cb13d851e8cb/Ana%20Isabel.gif" alt="Banner" style="width: 100%; height: 230px;" />
 </p> 
 
 <p align="center">
