@@ -31,9 +31,9 @@
 
 ---
 ### 📂 My projects
-- **[Projeto 1](https://github.com/seuprojeto1)** - Descrição breve do projeto 1.
-- **[Projeto 2](https://github.com/seuprojeto2)** - Descrição breve do projeto 2.
-- **[Projeto 3](https://github.com/seuprojeto3)** - Descrição breve do projeto 3.
+- **[Projeto 1](https://github.com/seuprojeto1)** - 
+- **[Projeto 2](https://github.com/seuprojeto2)** - 
+- **[Projeto 3](https://github.com/seuprojeto3)** - 
 
 ---
 ### 📊 My status
