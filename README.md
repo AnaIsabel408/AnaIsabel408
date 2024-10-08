@@ -23,9 +23,9 @@
 
 ### 📂 Repositórios em Destaque
 
-- [**Projeto 1**](https://github.com/AnaIsabel408/para-o-meu-amor): Breve descrição do projeto.
-- [**Projeto 2**](https://github.com/seu-usuario/projeto2): Breve descrição do projeto.
-- [**Projeto 3**](https://github.com/seu-usuario/projeto3): Breve descrição do projeto.
+- [**Projeto 1**]
+- [**Projeto 2**]
+- [**Projeto 3**]
 
 ---
 
