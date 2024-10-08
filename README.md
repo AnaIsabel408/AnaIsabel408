@@ -1,21 +1,38 @@
-# 💫 I'm Ana! 
-I am a Computer Technician student.<br>I am currently learning JavaScript, Python, HTML, and CSS.<br>In addition, I am studying web development and diving deeper into cybersecurity, areas that I am really passionate about.
+# Ana | Desenvolvedora e Designer Gráfico 👩‍💻
 
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ana-isabel-315930326/) 
-
-# 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AnaIsabel408&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnaIsabel408&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaIsabel408&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnaIsabel408&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
+### 💡 Habilidades Técnicas:
+- **Linguagens de Programação**: HTML, CSS, JavaScript, Python
+- **Ferramentas e Tecnologias**: Figma, Adobe Photoshop, Git, Visual Studio Code, Node.js
+- **Interesses**: Desenvolvimento web, Design Gráfico, Hacking
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnaIsabel408&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub de Ana](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+---
+
+### 🛠️ Badges de Tecnologias
+
+![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📂 Repositórios em Destaque
+
+- [**Projeto 1**](https://github.com/seu-usuario/projeto1): Breve descrição do projeto.
+- [**Projeto 2**](https://github.com/seu-usuario/projeto2): Breve descrição do projeto.
+- [**Projeto 3**](https://github.com/seu-usuario/projeto3): Breve descrição do projeto.
+
+---
+
+### 🌐 Links Importantes
+
+- **[LinkedIn](https://www.linkedin.com/in/seu-perfil)**  
+- **[Portfólio](https://seu-portfolio.com)**  
+- **[Meu site pessoal](https://seu-site.com)**
