@@ -14,7 +14,7 @@
 </p>
 <div>
     <h2>🎀Hi, my name is Ana</h2>
-    <p>I am a Technical Informatics student, currently deepening my knowledge in front-end, back-end programming languages, and various other technologies. Additionally, I perform equipment repairs. My main focus is on cybersecurity and web development, areas where I am constantly striving to enhance my skills and expand my technical expertise.</p>
+    <p>I am a Technical Informatics student, currently deepening my knowledge in front-end, back-end programming languages, and various other technologies. My main focus is on web development, areas where I am constantly striving to enhance my skills and expand my technical expertise.</p>
   </div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=AnaIsabel408&color=red&style=for-the-badge" alt="Visualizações no perfil" />
@@ -26,7 +26,6 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
