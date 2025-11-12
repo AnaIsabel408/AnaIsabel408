@@ -5,7 +5,7 @@
   <a href="https://instagram.com/selantrix">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ana-isabel-315930326/">
+  <a href="https://www.linkedin.com/in/ana-hossi-315930326/">
     <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a>
